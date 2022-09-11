@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/carolers_2022/static/css/main.732e0090.css",
+    "main.js": "/carolers_2022/static/js/main.822346a4.js",
+    "static/js/787.33e132c5.chunk.js": "/carolers_2022/static/js/787.33e132c5.chunk.js",
+    "static/media/Xmas tree.jpeg": "/carolers_2022/static/media/Xmas tree.53f715c4c9a412e87132.jpeg",
+    "index.html": "/carolers_2022/index.html",
+    "main.732e0090.css.map": "/carolers_2022/static/css/main.732e0090.css.map",
+    "main.822346a4.js.map": "/carolers_2022/static/js/main.822346a4.js.map",
+    "787.33e132c5.chunk.js.map": "/carolers_2022/static/js/787.33e132c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.732e0090.css",
+    "static/js/main.822346a4.js"
+  ]
+}
