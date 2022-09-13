@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hkdl_2022/static/css/main.e570c126.css",
-    "main.js": "/hkdl_2022/static/js/main.70b9eb95.js",
-    "static/js/787.33e132c5.chunk.js": "/hkdl_2022/static/js/787.33e132c5.chunk.js",
-    "static/media/Xmas tree.jpeg": "/hkdl_2022/static/media/Xmas tree.53f715c4c9a412e87132.jpeg",
-    "index.html": "/hkdl_2022/index.html",
-    "main.e570c126.css.map": "/hkdl_2022/static/css/main.e570c126.css.map",
-    "main.70b9eb95.js.map": "/hkdl_2022/static/js/main.70b9eb95.js.map",
-    "787.33e132c5.chunk.js.map": "/hkdl_2022/static/js/787.33e132c5.chunk.js.map"
+    "main.css": "/Bones81.github.io/hkdl_2022/static/css/main.7ace4e9a.css",
+    "main.js": "/Bones81.github.io/hkdl_2022/static/js/main.b970be0f.js",
+    "static/js/787.33e132c5.chunk.js": "/Bones81.github.io/hkdl_2022/static/js/787.33e132c5.chunk.js",
+    "static/media/Xmas tree.jpeg": "/Bones81.github.io/hkdl_2022/static/media/Xmas tree.53f715c4c9a412e87132.jpeg",
+    "index.html": "/Bones81.github.io/hkdl_2022/index.html",
+    "main.7ace4e9a.css.map": "/Bones81.github.io/hkdl_2022/static/css/main.7ace4e9a.css.map",
+    "main.b970be0f.js.map": "/Bones81.github.io/hkdl_2022/static/js/main.b970be0f.js.map",
+    "787.33e132c5.chunk.js.map": "/Bones81.github.io/hkdl_2022/static/js/787.33e132c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e570c126.css",
-    "static/js/main.70b9eb95.js"
+    "static/css/main.7ace4e9a.css",
+    "static/js/main.b970be0f.js"
   ]
 }
