@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/hkdl_2022/static/css/main.60e307de.css",
-    "main.js": "/hkdl_2022/static/js/main.cf12e5d5.js",
+    "main.js": "/hkdl_2022/static/js/main.aed7ef17.js",
     "static/js/787.33e132c5.chunk.js": "/hkdl_2022/static/js/787.33e132c5.chunk.js",
     "static/media/Xmas tree.jpeg": "/hkdl_2022/static/media/Xmas tree.53f715c4c9a412e87132.jpeg",
     "index.html": "/hkdl_2022/index.html",
     "main.60e307de.css.map": "/hkdl_2022/static/css/main.60e307de.css.map",
-    "main.cf12e5d5.js.map": "/hkdl_2022/static/js/main.cf12e5d5.js.map",
+    "main.aed7ef17.js.map": "/hkdl_2022/static/js/main.aed7ef17.js.map",
     "787.33e132c5.chunk.js.map": "/hkdl_2022/static/js/787.33e132c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60e307de.css",
-    "static/js/main.cf12e5d5.js"
+    "static/js/main.aed7ef17.js"
   ]
 }
